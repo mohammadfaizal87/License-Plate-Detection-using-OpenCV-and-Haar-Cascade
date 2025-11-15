@@ -1,6 +1,6 @@
 # License-Plate-Detection-using-OpenCV-and-Haar-Cascade
 
-### Author: Vignesh R
+### Author: MOHAMMAD FAIZAL SK
 ### Date: November 12, 2025
 ### Course: Computer Vision / AI Applications
 
